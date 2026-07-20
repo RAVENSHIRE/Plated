@@ -1,6 +1,5 @@
 {
   "name": "Plated",
-  "description": "High-fidelity interactive prototype for a next-generation AR kitchen assistant featuring smart room blending, automated pantry scans, and hologram plate projections.",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "description": "v1 prototype of Plated: fast personalized meal suggestions from your goals, cuisine preference, and manually entered ingredients — shown on a color-coded plate. Photo-based ingredient scanning is planned for v2.",
+  "requestFramePermissions": []
 }
